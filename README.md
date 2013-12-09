@@ -1,4 +1,0 @@
-Helloworld
-==========
-
-first project
